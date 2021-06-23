@@ -1,0 +1,16 @@
+{
+  "name": "evenbetterchatrix",
+  "version": "0.0.1",
+  "description": "its even better!",
+  "main": "index.js",
+  "author": "jaredyoshi",
+  "private": true,
+  "license": "non",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
